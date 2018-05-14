@@ -27,4 +27,6 @@ Ejemplos de JavaScript
     * Condiciones
     * JSON
  * Ciclos en JavaScript
+    * While, doWhile, for
+    * funciones de tiempo
  * Eventos
